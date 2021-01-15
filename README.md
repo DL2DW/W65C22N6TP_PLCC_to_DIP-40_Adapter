@@ -48,6 +48,12 @@ Then plug the W65C22N into the socket; done. After that, the adapter board can s
 
 
 
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/W65C22N6TP_PLCC_to_DIP_40_Adapter.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/W65C22N6TP_PLCC_to_DIP_40_Adapter.html)
+
 
 
 If you liked my project, I would be very happy about a small coffee donation.
